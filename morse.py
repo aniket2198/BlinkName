@@ -14,7 +14,7 @@ GPIO.setwarnings(False)
 
 aniket = [".-", "-.","..", "-.-", ".", "-"]
 
-dot = 0.5 #200 millis
+dot = 0.5 #500 millis
 
 i = 0
 
